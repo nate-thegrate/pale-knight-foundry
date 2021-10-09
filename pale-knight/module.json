@@ -1,0 +1,31 @@
+{
+	"name": "SupersHomebrewPack",
+	"title": "Pale Knight—Hollow Knight 5e Class",
+	"description": "Become a Hollow Knight in D&D 5e!",
+	"author": "Nate the grate",
+	"version": "0.1",
+	"minimumCoreVersion": "0.6.2",
+	"compatibleCoreVersion": "0.8.8",
+	"url": "https://github.com/nate-thegrate/pale-knight-foundry/tree/master/SupersHomebrewPack",
+	"download": "https://github.com/nate-thegrate/pale-knight-foundry/archive/master.zip",
+	"system": "dnd5e",
+	"manifest": "https://raw.githubusercontent.com/nate-thegrate/pale-knight-foundry/master/SupersHomebrewPack/module.json",
+	"readme": "https://github.com/nate-thegrate/pale-knight-foundry/blob/master/README.md",
+	"changelog": "https://github.com/nate-thegrate/pale-knight-foundry/blob/master/CHANGELOG.md",
+	"packs": [
+		{
+			"name": "items",
+			"label": "Items",
+			"system": "dnd5e",
+			"path": "packs/class-features.db",
+			"entity": "Item"
+		},
+		{
+			"name": "spells",
+			"label": "Spells",
+			"system": "dnd5e",
+			"path": "packs/pale-knight.db",
+			"entity": "Item"
+		}
+	]
+}
