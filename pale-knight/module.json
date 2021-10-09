@@ -9,7 +9,7 @@
 	"url": "https://github.com/nate-thegrate/pale-knight-foundry/tree/master/SupersHomebrewPack",
 	"download": "https://github.com/nate-thegrate/pale-knight-foundry/archive/master.zip",
 	"system": "dnd5e",
-	"manifest": "https://raw.githubusercontent.com/nate-thegrate/pale-knight-foundry/master/SupersHomebrewPack/module.json",
+	"manifest": "https://raw.githubusercontent.com/nate-thegrate/pale-knight-foundry/master/pale-knight/module.json",
 	"readme": "https://github.com/nate-thegrate/pale-knight-foundry/blob/master/README.md",
 	"changelog": "https://github.com/nate-thegrate/pale-knight-foundry/blob/master/CHANGELOG.md",
 	"packs": [
